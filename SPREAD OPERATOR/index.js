@@ -1,7 +1,7 @@
 //SPREAD OPERATOR
 
 //ARRAY
-const array1 = [1, 2, 3, 4];
+const array1 = [1, 2, 3, 4,5];
 const array2 = [7, 8, 9, 0];
 const newArray = [...array1, 5, 6, ...array2];
 console.log(newArray);
